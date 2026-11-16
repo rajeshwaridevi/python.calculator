@@ -12,4 +12,4 @@ My first Python project.
 Python
 
 ## Developer
-Rajeshwari
+Rajeshwari devi

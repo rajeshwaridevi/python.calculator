@@ -1,4 +1,4 @@
-
+print ("this is my first python project")
 print("Welcome")
 
 a = int(input("Enter a value 1: "))
